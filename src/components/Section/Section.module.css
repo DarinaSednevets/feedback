@@ -1,0 +1,11 @@
+.section {
+  font-size: 20px;
+  padding: 5px;
+  background: wheat;
+  height: 150px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}

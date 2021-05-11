@@ -1,0 +1,12 @@
+.statisticList {
+  max-width: 400px;
+  margin: 0 auto;
+  font-size: 1em;
+
+}
+
+.statisticItem {
+  margin-bottom: 7px;
+  font-weight: 300;
+  color: black;
+}
